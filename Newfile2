@@ -1,0 +1,4 @@
+print("----------Game----------")
+print("NEW GAME? Y/N")
+ngi = input("")
+if ngi == ("Y").lower():
